@@ -1,4 +1,4 @@
-# Resort Website
+# Boring Lecture
 
 #### HTML and CSS Practice Pages for Epicodus, 01.03.2018
 
@@ -6,7 +6,7 @@
 
 ## Description
 
-Website for a resort and spa consisting of several pages for home, accommodations, activities, travel arrangements, and a contact page.
+Website about how to make cement. It is so boring.
 
 ## Setup/Installation Requirements
 
