@@ -1,0 +1,24 @@
+.flashy {
+  color: red;
+  font-style: italic;
+  text-align: center;
+}
+
+body {
+  padding-left: 100px;
+  padding-right: 100px;
+}
+
+h2.intro {
+  color: salmon;
+  text-align: center;
+}
+
+p.intro {
+  text-align: center;
+}
+
+img.intro {
+  display: block;
+  margin:auto;
+}
