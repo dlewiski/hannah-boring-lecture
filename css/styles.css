@@ -9,16 +9,9 @@ body {
   padding-right: 100px;
 }
 
-h2.intro {
+div.intro {
   color: salmon;
   text-align: center;
-}
-
-p.intro {
-  text-align: center;
-}
-
-img.intro {
   display: block;
   margin:auto;
 }
